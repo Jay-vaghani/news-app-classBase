@@ -1,0 +1,138 @@
+// 20220917211904
+// https://newsapi.org/v2/everything?q=Apple&from=2022-09-16&sortBy=popularity&apiKey=35b5dadcbef54d968c6389869d4e5140
+{
+    "status": "ok",
+    "totalResults": 2945,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mahsa Amini: Women take headscarves off in protest at funeral",
+            "description": "Police fire tear gas after Mahsa Amini's funeral as mourners chant anti-government slogans.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62940907",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B8A0/production/_126746274_mahsaamini.jpg",
+            "publishedAt": "2022-09-17T17:07:23.1473474Z",
+            "content": "By Ali HamedaniBBC World Service\r\nProtests have broken out at the funeral of a woman who died after being arrested by Iran's morality police.\r\nMahsa Amini, 22, died on Friday, days after eyewitnesses… [+4542 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mohammed Bin Salman: Saudi Prince's controversial invitation to the Queen's funeral",
+            "description": "Human rights campaigners say it is a stain on Queen Elizabeth II's memory.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62940906",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7233/production/_126753292_mediaitem126753290.jpg",
+            "publishedAt": "2022-09-17T14:07:18.8526978Z",
+            "content": "By Frank GardnerBBC security correspondent\r\nBritain's invitation to Saudi Arabia's Crown Prince and de facto ruler, Mohammed Bin Salman, to attend the Queen's funeral has sparked a storm of protest f… [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What now for America's fascination with the royals?",
+            "description": "The Queen's passing is driving debates over the legacy of colonialism and the British Empire in North America.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62922214",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72A9/production/_126735392_gettyamericans_morn-1422021412.jpg",
+            "publishedAt": "2022-09-17T12:52:20.8052374Z",
+            "content": "By Chelsea BaileyBBC News, Washington\r\nFor students of America's relationship with the monarchy, few weeks in history could compare with this one.\r\nThe American flag has been lowered to half-staff, f… [+6627 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Harry to stand vigil Queen's coffin in military uniform",
+            "description": "He has not been seen in military uniform since 2020, when he stepped back as a working royal.",
+            "url": "http://www.bbc.co.uk/news/uk-62938463",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E3B/production/_126751323_gettyimages-1423734601.jpg",
+            "publishedAt": "2022-09-17T08:52:19.6218142Z",
+            "content": "The Queen's grandchildren, including the Prince of Wales and the Duke of Sussex, will stand vigil around her coffin this evening as she lies in state in Westminster Hall.\r\nAt King Charles' request, P… [+2039 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Uber investigating hack on its computer systems",
+            "description": "A hacker was apparently able to gain access to the company's internal systems.",
+            "url": "http://www.bbc.co.uk/news/technology-62925047",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B4CB/production/_126738264_gettyimages-1243256053.jpg",
+            "publishedAt": "2022-09-17T08:37:21.0413133Z",
+            "content": "By Shiona McCallumTechnology reporter\r\nUber's computer network has been hacked. \r\nThe ride-hailing company said it was investigating after several internal communications and engineering systems had … [+3196 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Mass exhumations at Izyum forest graves site",
+            "description": "The BBC's Orla Guerin reports from Izyum as Ukraine looks for answers at the site of hundreds of graves.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62931224",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12E8E/production/_126745477_mediaitem126745476.jpg",
+            "publishedAt": "2022-09-17T06:52:17.7431173Z",
+            "content": "By Orla GuerinBBC News, Izyum, Ukraine\r\nIn a pine forest at the edge of Izyum the stench of death filled the air as a mass exhumation got under way. \r\nThe earth is giving up its secrets. Ukrainian of… [+4981 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine counter-offensive won't change Russia's plans – Putin",
+            "description": "In his first public comments on Ukraine's recent successes, Mr Putin says he is in \"no hurry\".",
+            "url": "http://www.bbc.co.uk/news/world-europe-62934875",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CB06/production/_126747915_mediaitem126747914.jpg",
+            "publishedAt": "2022-09-17T06:52:15.8217202Z",
+            "content": "By Elsa MaishmanBBC News\r\nUkraine's recent counter-offensive will not change Russia's plans, Vladimir Putin has said in his first public comments on the matter.\r\nIn a rapid counter-attack, Ukrainian … [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The cowboy and the Queen who bonded over horses",
+            "description": "Sitting with the heads of state at Monday's funeral will be Monty Roberts, a cowboy from California.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62931524",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12402/production/_126745747_p0d0y9p1.jpg",
+            "publishedAt": "2022-09-16T23:07:19.8216325Z",
+            "content": "A cowboy from California will sit alongside heads of state at Queen Elizabeth's funeral on Monday. \r\nMonty Roberts' unique method of training horses impressed the Queen and formed the basis of a deca… [+237 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Why are migrants in the US being sent to Democrat-run areas?",
+            "description": "Thousands of people have been sent from Republican states amid an escalating political row.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62921858",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A43/production/_126734688_f8c5b8da416fbae80b51931a12494fe1ec1ba2fd.jpg",
+            "publishedAt": "2022-09-16T20:22:20.9459996Z",
+            "content": "By Bernd Debusmann Jrin Washington\r\nThousands of migrants have been sent from Republican-led states to Democrat-run areas as part of a growing row with the federal government and the Biden administra… [+5344 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "King Charles and Camilla makes first visit to Wales as they complete tour of UK nations",
+            "description": "Charles III and Camilla greet crowds after attending a service of prayer for the late Queen at Llandaff Cathedral.",
+            "url": "http://www.bbc.co.uk/news/live/uk-62921700",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-09-16T11:37:29.8850355Z",
+            "content": "The queue to see the Queen lying in state now stretches five miles, with an extraordinary 14-hour waiting time.\r\nAt the back of the long line in Southwark Park, on the south bank of the Thames, I hav… [+625 chars]"
+        }
+    ]
+}
